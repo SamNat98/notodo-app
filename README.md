@@ -1,6 +1,8 @@
 # notodo
 
-A new Flutter project.
+A new Flutter App.
+Simple nothing fancy just a ToDo App to add,delete and update Stuff.
+Integrated with a SqLite Database
 
 ## Getting Started
 
